@@ -13,3 +13,11 @@
 **[Try it now!](https://gap-surfacing-chair.ngrok-free.dev)**
 
 ### Test Cases:
+<div align="center">
+
+# 🛡️ **TruthGuard AI** 
+## Hallucination Detection System
+
+[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-GREEN?style=for-the-badge&logo=vercel)](https://gap-surfacing-chair.ngrok-free.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style
